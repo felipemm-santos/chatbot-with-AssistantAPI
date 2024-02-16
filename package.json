@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-with-assistantapi",
+  "version": "1.0.0",
+  "description": "A Chatbot using Open AI Assistants API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Morais Mariano dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
